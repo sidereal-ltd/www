@@ -29,7 +29,8 @@ twitter_username: SiderealLtd
 github_username:  sidereal-ltd
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: Phlow/feeling-responsive
 plugins:
   - jekyll-feed
 
